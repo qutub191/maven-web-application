@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mahesh Releases Nexus Repository</name>
-	      <url>http://43.204.30.106:8081/repository/salomey_release/</url>
+	      <url>http://34.234.73.34:8081/repository/dell_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mahesh Snapshot Nexus Repository </name>
-	      <url>http://43.204.30.106:8081/repository/salomey_snapshot/</url>
+	      <url>http://34.234.73.34:8081/repository/dell_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
