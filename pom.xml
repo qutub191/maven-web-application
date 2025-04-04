@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mahesh Snapshot Nexus Repository </name>
-	      <url>http://34.234.73.34:8081/repository/dell_snapshot/</url>
+	      <url>http://54.242.240.102:8081/repository/dell_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
